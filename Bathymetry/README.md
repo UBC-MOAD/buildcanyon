@@ -12,13 +12,8 @@ Descriptions below the links are from the first cell of the notebooks
     
     Non-uniform grid 360x360  
     ==============================  
-      
-    This ipy-notebook generates a bathymetry file (as well as delx and dely files) with non uniform resolution. Minimum resolution is 200 m near the canyon (along shore and across shore)  
-      
-      
-    This notebook is based on the functions *make_arbitrary_topo_smooth*, *tanktopo*, *canyontopo* and *widthprofile* which were originally written by S. Allen, and modified by T. Howatt and J. Spurgin (They have been translated form python to matlab and here to python again).   
-      
+    This ipy-notebook generates a bathymetry file (as well as delx and dely files) with non uniform resolution. Minimum resolution is 200 m near the canyon (along shore and across shore). This notebook is based on the functions *make_arbitrary_topo_smooth*, *tanktopo*, *canyontopo* and *widthprofile* which were originally written by S. Allen, and modified by T. Howatt and J. Spurgin (They have been translated form python to matlab and here to python again).   
     They have to be loaded from the module BathyPythonTools.py  
       
-    K. Ramos Musalem  
+    
 
