@@ -5,7 +5,12 @@ Descriptions below the links are from the first cell of the notebooks
 
 * ##[3DBathymetry.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetry.ipynb)  
     
-    Generate 3D bathymetry graphics from a binary file prepared for MITgcm submarine canyon simulations  
+    Generate 3D bathymetry graphics from a binary file prepared for MITgcm submarine canyon simulations 
+    
+    * ##[3DBathymetryBarkleylike.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetryBarkleylike.ipynb)  
+    
+    Generate 3D bathymetry graphics from a binary file prepared for MITgcm submarine canyon simulations using characteristic dimensions of Barkley Canyon.  
+
 
 
 * ##[GenerateNonUniformBathymetry360x360.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry360x360.ipynb)  
