@@ -17,7 +17,7 @@ Descriptions below the links are from the first cell of the notebooks
     
     Generate a bathymetry file (as well as delx and dely files) with non uniform resolution. Minimum resolution is 200 m near the canyon along shore and across shore.  
 
-* ##[Generate2CanyonBathy.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry360x360.ipynb)  
+* ##[Generate2CanyonBathy.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/Generate2CanyonBathy.ipynb)  
     
     Generate a 2-canyon bathymetry file (as well as delx and dely files) with non uniform resolution. Minimum resolution is 200 m near the canyons along shore and across shore.  
     
