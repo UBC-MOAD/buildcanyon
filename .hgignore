@@ -2,4 +2,8 @@
 syntax: glob
 
 *.bin
-/gsw-3.0.3
+PythonModulesMITgcm/gsw-3.0.3
+Bathymetry/.ipynb_checkpoints
+Bathymetry/*.bin
+Stratification/360x360
+Stratification/.ipynb_checkpoints
