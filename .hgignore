@@ -1,0 +1,5 @@
+# use glob syntax.
+syntax: glob
+
+*.bin
+/gsw-3.0.3
