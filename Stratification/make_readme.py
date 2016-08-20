@@ -23,7 +23,7 @@ import re
 
 
 NBVIEWER = 'http://nbviewer.jupyter.org/urls'
-REPO = 'bitbucket.org/canyonsubc/BuildCanyon/raw/tip'
+REPO = 'bitbucket.org/canyonsubc/buildcanyon/raw/tip'
 REPO_DIR = 'Stratification'
 TITLE_PATTERN = re.compile('#{1,6} ?')
 
