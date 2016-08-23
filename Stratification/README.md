@@ -8,9 +8,9 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[CheckDiffFileRun073DDIFF.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Stratification/CheckDiffFileRun073DDIFF.ipynb)  
     
-* ##[BCs_and_ICs_from_run07.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Stratification/BCs_and_ICs_from_run07.ipynb)  
-    
 * ##[GenerateBarkleyProfiles.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Stratification/GenerateBarkleyProfiles.ipynb)  
+    
+* ##[BCs_and_ICs_from_run42.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Stratification/BCs_and_ICs_from_run42.ipynb)  
     
 * ##[GenerateAvgDiffKrFile.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Stratification/GenerateAvgDiffKrFile.ipynb)  
     
