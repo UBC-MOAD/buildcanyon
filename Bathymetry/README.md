@@ -1,26 +1,54 @@
+The Jupyter Notebooks in this directory are for development and testing of
+the results figures generation modules of the Salish Sea model nowcast system.
+
 The links below are to static renderings of the notebooks via
-[nbviewer.ipython.org](http://nbviewer.ipython.org/).
-Descriptions below the links are from the first cell of the notebooks
+[nbviewer.jupyter.org](http://nbviewer.jupyter.org/).
+Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
-* ##[3DBathymetry.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetry.ipynb)  
+* ##[GenerateHighResBathymetry1080x720.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateHighResBathymetry1080x720.ipynb)  
     
-    Generate 3D bathymetry graphics from a binary file prepared for MITgcm submarine canyon simulations 
+* ##[GenerateNonUniformBathymetry540x360Quad_extended.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry540x360Quad_extended.ipynb)  
     
-    * ##[3DBathymetryBarkleylike.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetryBarkleylike.ipynb)  
+* ##[Generate2CanyonBathy.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/Generate2CanyonBathy.ipynb)  
     
-    Generate 3D bathymetry graphics from a binary file prepared for MITgcm submarine canyon simulations using characteristic dimensions of Barkley Canyon.  
-
-
-
-* ##[GenerateNonUniformBathymetry360x360.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry360x360.ipynb)  
+* ##[GenerateTankBathymetry.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateTankBathymetry.ipynb)  
     
-    Generate a bathymetry file (as well as delx and dely files) with non uniform resolution. Minimum resolution is 200 m near the canyon along shore and across shore.  
-
-* ##[Generate2CanyonBathy.ipynb](http://nbviewer.ipython.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/Generate2CanyonBathy.ipynb)  
+* ##[GenerateNoCanyonBathy360x360QuadWalls.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNoCanyonBathy360x360QuadWalls.ipynb)  
     
-    Generate a 2-canyon bathymetry file (as well as delx and dely files) with non uniform resolution. Minimum resolution is 200 m near the canyons along shore and across shore.  
+* ##[GenerateNonUniformBathymetry616x360Quad_extended.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry616x360Quad_extended.ipynb)  
     
-      
+* ##[3DBathymetryBarkleylikeQuad.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetryBarkleylikeQuad.ipynb)  
+    
+* ##[GenerateNonUniformBathymetry700x360Quad_extended3x_smaller.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry700x360Quad_extended3x_smaller.ipynb)  
+    
+* ##[3DBathymetry2BarkleyCanyons.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetry2BarkleyCanyons.ipynb)  
+    
+* ##[GenerateNonUniformBathymetry360x360Quad.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry360x360Quad.ipynb)  
+    
+* ##[GenerateNoCanyonBathy360x360Quad.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNoCanyonBathy360x360Quad.ipynb)  
+    
+* ##[3DBathymetryBarkleylike.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetryBarkleylike.ipynb)  
+    
+* ##[3DBathymetryNWPacificTypicalCanyon.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetryNWPacificTypicalCanyon.ipynb)  
+    
+* ##[GenerateNoCanyonBathy360x360.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNoCanyonBathy360x360.ipynb)  
+    
+* ##[GenerateNonUniformBathymetry540x360Quad_extended3x.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry540x360Quad_extended3x.ipynb)  
+    
+* ##[GenerateNonUniformBathymetry360x360.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry360x360.ipynb)  
+    
+* ##[3DBathymetry.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetry.ipynb)  
+    
+* ##[GenerateNonUniformBathymetry360x360QuadWalls.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry360x360QuadWalls.ipynb)  
+    
 
+##License
 
+These notebooks and files are copyright 2013-2018
+by the Salish Sea MEOPAR Project Contributors
+and The University of British Columbia.
+
+They are licensed under the Apache License, Version 2.0.
+http://www.apache.org/licenses/LICENSE-2.0
+Please see the LICENSE file for details of the license.
