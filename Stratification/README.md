@@ -6,6 +6,8 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[check_eqn_smoothStep.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Stratification/check_eqn_smoothStep.ipynb)  
+    
 * ##[CheckDiffFileRun073DDIFF.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Stratification/CheckDiffFileRun073DDIFF.ipynb)  
     
 * ##[GenerateDiffKrFile.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Stratification/GenerateDiffKrFile.ipynb)  
