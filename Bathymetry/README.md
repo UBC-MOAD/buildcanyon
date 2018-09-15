@@ -12,6 +12,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Generate2CanyonBathy.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/Generate2CanyonBathy.ipynb)  
     
+* ##[check_canyon_insert_rectangular_coords.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/check_canyon_insert_rectangular_coords.ipynb)  
+    
 * ##[GenerateTankBathymetry_Inserts.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateTankBathymetry_Inserts.ipynb)  
     
 * ##[GenerateTankBathymetry.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateTankBathymetry.ipynb)  
@@ -39,6 +41,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[GenerateNonUniformBathymetry540x360Quad_extended3x.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry540x360Quad_extended3x.ipynb)  
     
 * ##[GenerateNonUniformBathymetry360x360.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry360x360.ipynb)  
+    
+* ##[GenerateTankBathymetry_spacings.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateTankBathymetry_spacings.ipynb)  
     
 * ##[3DBathymetry.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetry.ipynb)  
     
