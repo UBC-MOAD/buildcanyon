@@ -30,6 +30,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[GenerateNonUniformBathymetry360x360Quad.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry360x360Quad.ipynb)  
     
+* ##[bathy_w_Astoria_dims_paper2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/bathy_w_Astoria_dims_paper2.ipynb)  
+    
 * ##[GenerateNoCanyonBathy360x360Quad.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNoCanyonBathy360x360Quad.ipynb)  
     
 * ##[3DBathymetryBarkleylike.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetryBarkleylike.ipynb)  
@@ -37,6 +39,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[3DBathymetryNWPacificTypicalCanyon.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetryNWPacificTypicalCanyon.ipynb)  
     
 * ##[GenerateNoCanyonBathy360x360.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNoCanyonBathy360x360.ipynb)  
+    
+* ##[GenerateBathymetryPaper2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateBathymetryPaper2.ipynb)  
     
 * ##[GenerateNonUniformBathymetry540x360Quad_extended3x.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry540x360Quad_extended3x.ipynb)  
     
@@ -47,6 +51,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[3DBathymetry.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetry.ipynb)  
     
 * ##[GenerateNonUniformBathymetry360x360QuadWalls.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNonUniformBathymetry360x360QuadWalls.ipynb)  
+    
+* ##[bathy_w_Barkley_dims_paper2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/bathy_w_Barkley_dims_paper2.ipynb)  
     
 
 ##License
