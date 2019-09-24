@@ -34,6 +34,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[GenerateNoCanyonBathy360x360Quad.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/GenerateNoCanyonBathy360x360Quad.ipynb)  
     
+* ##[bathy_2Canyons_Astoria_dims.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/bathy_2Canyons_Astoria_dims.ipynb)  
+    
 * ##[3DBathymetryBarkleylike.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetryBarkleylike.ipynb)  
     
 * ##[3DBathymetryNWPacificTypicalCanyon.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/3DBathymetryNWPacificTypicalCanyon.ipynb)  
@@ -54,10 +56,14 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[bathy_w_Barkley_dims_paper2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/bathy_w_Barkley_dims_paper2.ipynb)  
     
+* ##[plot_tank_bathy.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/plot_tank_bathy.ipynb)  
+    
+* ##[2canyon_bathymetry_3Dplot.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Bathymetry/2canyon_bathymetry_3Dplot.ipynb)  
+    
 
 ##License
 
-These notebooks and files are copyright 2013-2018
+These notebooks and files are copyright 2013-2019
 by the Salish Sea MEOPAR Project Contributors
 and The University of British Columbia.
 
