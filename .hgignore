@@ -7,3 +7,8 @@ Bathymetry/.ipynb_checkpoints
 Bathymetry/*.bin
 Stratification/360x360
 Stratification/.ipynb_checkpoints
+*.eps
+*.jpg
+*.png
+*.pdf
+Bathymetry/*.nc
