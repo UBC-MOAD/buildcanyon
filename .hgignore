@@ -11,4 +11,4 @@ Stratification/.ipynb_checkpoints
 *.jpg
 *.png
 *.pdf
-Bathymetry/*.nc
+Bathymetry/tank/*.nc
