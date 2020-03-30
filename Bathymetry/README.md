@@ -1,5 +1,4 @@
-The Jupyter Notebooks in this directory are for development and testing of
-the results figures generation modules of the Salish Sea model nowcast system.
+The Jupyter Notebooks in this directory are for development of canyon bathymetries to input into MITgcm.
 
 The links below are to static renderings of the notebooks via
 [nbviewer.jupyter.org](http://nbviewer.jupyter.org/).
