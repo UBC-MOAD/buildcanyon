@@ -15,7 +15,7 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * [BCs_and_ICs_from_run42.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Stratification/BCs_and_ICs_from_run42.ipynb)  
     
-* ##[GenerateAvgDiffKrFile.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Stratification/GenerateAvgDiffKrFile.ipynb)  
+* [GenerateAvgDiffKrFile.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Stratification/GenerateAvgDiffKrFile.ipynb)  
     
 * [GenerateDiffKrFile_smoothStep.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/canyonsubc/buildcanyon/raw/tip/Stratification/GenerateDiffKrFile_smoothStep.ipynb)  
     
